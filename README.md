@@ -14,7 +14,7 @@ A plugin for [osTicket](https://osticket.com/) that sends an HTTP POST webhook w
 
 ## Requirements
 
-- osTicket **1.18+**
+- osTicket **1.18+ < 2.00**
 - PHP **7.4+**
 - PHP cURL extension (`php-curl`)
 
